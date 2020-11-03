@@ -1,4 +1,4 @@
-# Build ECommerce Shopping Cart by React & Redux 2020 Edition
+# Build ECommerce Shopping Cart Using React
 
 - Design Shopping Cart Using HTML and CSS
 - Implement React Components For Product List, Filter, Cart
