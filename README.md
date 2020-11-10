@@ -1,4 +1,4 @@
-# Build ECommerce Shopping Cart Using React
+# ECommerce Shopping Cart Using React
 
 - Design Shopping Cart Using HTML and CSS
 - Implement React Components For Product List, Filter, Cart
